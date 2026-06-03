@@ -88,4 +88,4 @@ Behaviour-driven scenarios written in **Given / When / Then** format.
 
 **Akhil S M**
 Senior Test Engineer
-[linkedin.com/in/akhilsm27] (https://linkedin.com/in/akhilsm27)
+Linkedin - https://www.linkedin.com/in/akhilsm27/
